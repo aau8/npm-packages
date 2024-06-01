@@ -1,0 +1,16 @@
+{
+  "name": "npm-packages",
+  "version": "1.0.0",
+  "description": "Для каждого npm-пакета определена своя вета",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Artyom Ugryumov",
+  "license": "ISC",
+  "dependencies": {
+    "yup": "^1.4.0"
+  }
+}
